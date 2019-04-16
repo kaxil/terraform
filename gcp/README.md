@@ -4,8 +4,10 @@ Under construction
 
 [Terraform](https://www.terraform.io/) is a simple and powerful tool that lets us write, plan and create infrastructure as code.
 
-## Getting Started
-### Prerequisites
+## Prerequisites
 1. [Install](https://learn.hashicorp.com/terraform/getting-started/install) Terraform.
 
-### Set Variables
+## Configure
+## Initialize
+## Plan
+## Apply
