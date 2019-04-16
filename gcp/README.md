@@ -11,9 +11,9 @@ Under construction
 ### Configure
 Configure the variables in `default.tfvars` with values relevant to your project:
 
-`region`
+`region` The regional location in which your resources will run.  See a complete list [here](https://cloud.google.com/compute/docs/regions-zones/).
 
-`zone`
+`zone` The zonal location in which your resources will run.  See a complete list [here](https://cloud.google.com/compute/docs/regions-zones/).
 
 `project`
 
