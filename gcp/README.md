@@ -15,7 +15,7 @@ Configure the variables in `default.tfvars` with values relevant to your project
 
 `zone` The zonal location in which your resources will run.  See a complete list [here](https://cloud.google.com/compute/docs/regions-zones/).
 
-`project`
+`project` The name of your GCP project. See more information [here](https://cloud.google.com/resource-manager/docs/creating-managing-projects).
 
 `cluster_name`
 
