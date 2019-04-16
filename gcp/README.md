@@ -19,7 +19,7 @@ Configure the variables in `default.tfvars` with values relevant to your project
 
 `cluster_name` Arbitrary name for your Kubernetes cluster.
 
-`machine_type`
+`machine_type` Machine type refers to the collection of hardware dedicated to your nodes. See more information [here](https://cloud.google.com/compute/docs/machine-types).
 
 `min_node_count` The minimum node count of your Kubernetes cluster.
 
