@@ -6,6 +6,6 @@ Under construction
 
 ## Getting Started
 ### Prerequisites
-1. [Download](https://www.terraform.io/downloads.html) and install Terraform.
+1. [Install](https://learn.hashicorp.com/terraform/getting-started/install) Terraform.
 
 ### Set Variables
