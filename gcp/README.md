@@ -9,8 +9,12 @@ Under construction
 1. [Install](https://learn.hashicorp.com/terraform/getting-started/install) Terraform.
 
 ### Configure
-### Initialize
+Configure the variables in `default.tfvars` with values relevant to your project.
 
+### Initialize
+`terraform init`
 ## Build Infrastructure
 ### Plan
+`terraform plan -var-file default.tfvars`
 ### Apply
+`terraform apply -var-file default.tfvars`
