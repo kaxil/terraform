@@ -21,11 +21,11 @@ Configure the variables in `default.tfvars` with values relevant to your project
 
 `machine_type`
 
-`min_node_count`
+`min_node_count` The minimum node count of your Kubernetes cluster.
 
-`max_node_count`
+`max_node_count` The maximum node count of your Kubernetes cluster.
 
-`node_version`
+`node_version` The version of Kubernetes running on your nodes. See more information [here](https://cloud.google.com/kubernetes-engine/versioning-and-upgrades#available_versions).
 
 ### Initialize
 `terraform init`
